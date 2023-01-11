@@ -10,7 +10,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For Selling books online.
-- Maintaining books selling history.
+- Maintaining books selling history.ngfjbgfjbkgj
 - Adding and managing books.
 - User Friendly.
 - For Implementation of Generic Servlets in Java.
